@@ -7,7 +7,7 @@ This repository contains my coursework and projects for ICS 385.
 * Completed environment configuration.
 
 ## Week 2: HTML & CSS - Professional Bio
-* **Project:** [Professional Bio Page](https://coraliam-dev.github.io/ICS385-coraliam-dev-bio/)
+
 * **Key Files:** [bio.html](bio.html), [styles.css](styles.css)
 
 ## 🛠️ Tech Stack
