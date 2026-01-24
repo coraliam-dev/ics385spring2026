@@ -8,7 +8,7 @@ This repository contains my coursework and projects for ICS 385.
 
 ## Week 2: HTML & CSS - Professional Bio
 
-* **Key Files:** [bio.html](bio.html), [styles.css](styles.css)
+- *Key Files:* [bio.html](./week2/hw/bio.html), [styles.css](./week2/hw/styles.css)
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
