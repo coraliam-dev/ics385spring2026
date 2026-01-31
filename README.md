@@ -19,15 +19,6 @@ This repository contains my coursework and projects for ICS 385.
 ## Week 3 - JavaScript
 
 ### Dicee Challenge - 3-Player Dice Game 🎲
-A fun, interactive casino-themed dice game built with vanilla JavaScript, HTML5, and CSS3.
-
-**Features:**
-- 3-player dice rolling game with automated winner detection
-- Casino-themed visuals with green felt background and gold styling
-- Random friendly messages (e.g., "HIGH ROLLER!", "JACKPOT!")
-- Sparkle animations on winning dice
-- Interactive buttons for seamless gameplay
-- Fully responsive design optimized for young audiences
 
 **Files:**
 - [dicee.html](./week3/dicee/dicee.html) - Game structure
