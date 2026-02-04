@@ -32,7 +32,7 @@ This repository contains my coursework and projects for ICS 385.
 3. If multiple players tie at the highest number, NO ONE wins that round
 4. Click "Play Again!" to try again
 
->>>>>>> 34cd9f2 (Initial commit for hero-hw4 project)
+)
 ### Simon Game - Memory Challenge 🎮
 
 **Files:**
@@ -47,4 +47,26 @@ This repository contains my coursework and projects for ICS 385.
 3. Repeat the sequence by clicking the colored buttons in order
 4. Each round adds a new color to the sequence
 5. Try to get the highest level possible! 🌟
->>>>>>> 34cd9f2 (Initial commit for hero-hw4 project)
+
+## Overview# Hero HW4 Project
+This Node.js project generates and saves a random hero, villain, inspirational quote, popular movie quote, and famous last words to five individual text files. It uses five different npm packages to accomplish this:
+
+- `superheroes`: Generates a random superhero name
+- `supervillains`: Generates a random supervillain name
+- `inspirational-quotes`: Provides a random inspirational quote
+- `popular-movie-quotes`: Provides a random popular movie quote
+- `famous-last-words`: Provides a famous last words quote
+
+## File Structure
+```
+hero-hw4/
+  hero.js                 # Main code file
+  package.json            # Project dependencies
+  hero.txt                # Random hero name
+  villain.txt             # Random villain name
+  inspiration-quote.txt   # Random inspirational quote
+  popular-movie-quotes.txt# Random movie quote
+  famous-last-words.txt   # Famous last words quote
+  ReadMe.md               # Project overview and instructions
+  node_modules/           # Installed npm packages
+```
