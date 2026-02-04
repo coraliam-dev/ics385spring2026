@@ -25,6 +25,7 @@ This repository contains my coursework and projects for ICS 385.
 - [index.js](./week3/dicee/index.js) - Game logic and winner detection
 - [styles.css](./week3/dicee/styles.css) - Casino theme and animations
 
+<<<<<<< HEAD
 =======
 **How to Play:**
 1. Click "ROLL DICE" to roll all three dice
@@ -39,6 +40,7 @@ This repository contains my coursework and projects for ICS 385.
 - [simon.html](./week3/simon/simon.html) - Game structure
 - [game.js](./week3/simon/game.js) - Game logic and sequence handler
 - [styles.css](./week3/simon/styles.css) - Colorful button styling and animations
+<<<<<<< HEAD
 =======
 
 **How to Play:**
