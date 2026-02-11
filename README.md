@@ -120,4 +120,11 @@ hero-hw4/
   ## Reflection (Manager Notes)
   - What my manager requested: Build a QR code generator using Node.js, accept user input, and save QR codes as images
   - What I learned: How to use npm packages for QR code generation, modularize Node.js code, and handle file outputs
-  - Next improvements I would make: Add web interface, support more image formats, improve error handling, automate tests
+
+
+## Week 5: ExpressJS
+
+### Overview
+Week 5 is about ExpressJS, which allows websites to display various web pages based on the URL. While we have worked on VS Code and GitHub for the past few weeks, we will learn about the online IDE - CodeSandbox.io.
+
+- [ExpressJS Project on CodeSandbox](https://codesandbox.io/p/devbox/week5-my-express-server-forked-hxhxvz)
